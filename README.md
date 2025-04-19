@@ -52,7 +52,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/sN5Fc95.gif' title='Video Walkthrough' width='100%' alt='Video Walkthrough' />
 <img src='https://i.imgur.com/sN5Fc95.gifv' title='Video Walkthrough' width='100%' alt='Video Walkthrough' />
-<iframe class="imgur-embed" width="100%" height="945" frameborder="0" src="https://i.imgur.com/sN5Fc95.gifv#embed"></iframe>
+<img src='https://imgur.com/sN5Fc95' title='Video Walkthrough' width='100%' alt='Video Walkthrough' />
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
