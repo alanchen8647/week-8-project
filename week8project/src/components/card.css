@@ -1,0 +1,34 @@
+.card-image{
+    width: 200px;
+    height: auto;
+}
+
+.card{
+    border: 1px solid white;
+    padding: 15px 30px;
+    margin:10px;
+    width: 300px;
+}
+
+
+.cardLink{
+    text-decoration: none;
+    color:white;
+}
+
+.cardAndIcon{
+    position:relative;
+}
+
+.icon {
+    position: absolute;
+    top: 50%;
+    left: 41%;
+    max-width: 50px;
+    z-index: 10;
+    filter: invert(100%);
+}
+
+.deadImg{
+    opacity: 0.3;
+}
